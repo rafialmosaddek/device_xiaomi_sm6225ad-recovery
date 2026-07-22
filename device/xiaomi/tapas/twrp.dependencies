@@ -1,0 +1,14 @@
+[
+  {
+    "remote": "github",
+    "repository": "rafialmosaddek/android_device_xiaomi_tapas",
+    "target_path": "device/xiaomi/tapas",
+    "branch": "twrp-12.1"
+  },
+  {
+    "remote": "github",
+    "repository": "SHRP/recovery_recovery",
+    "target_path": "vendor/recovery",
+    "branch": "twrp-12.1"
+  }
+]
