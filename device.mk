@@ -94,7 +94,14 @@ PRODUCT_SOONG_NAMESPACES += \
 	vendor/qcom/opensource/commonsys-intf/display
 
 # TWRP - Specifics
-TW_DEVICE_VERSION       := chickendrop89
+TW_DEVICE_VERSION       := rafialmosaddek
+SHRP_MAINTAINER          := rafialmosaddek
+SHRP_DEVICE_CODE         := SM6225-AD
+SHRP_REC_TYPE            := Treble
+SHRP_DARK                := true
+SHRP_FLASH               := 1
+SHRP_DEVICE_TYPE         := A_B
+SHRP_REC                 := /dev/block/bootdevice/by-name/recovery
 TW_THEME                := portrait_hdpi
 TW_DEFAULT_LANGUAGE     := en
 TW_USE_TOOLBOX          := true

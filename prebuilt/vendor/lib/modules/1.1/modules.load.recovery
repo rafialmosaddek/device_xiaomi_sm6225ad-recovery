@@ -127,10 +127,10 @@ cpumaxfreq.ko
 qcom_lpm.ko
 leds-aw2016.ko
 leds-gpio.ko
+camera.ko
 leds-qti-flash.ko
 leds-qti-tri-led.ko
 leds-qpnp-vibrator-ldo-tz.ko
-camera.ko
 mi_wmark.ko
 binder_prio.ko
 ipa_fmwk.ko
