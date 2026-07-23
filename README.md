@@ -27,6 +27,7 @@ There are 4 branches in this repository:
 - fox-14.1 - Experimental OFRP
 - pbrp-12.1 - Main PBRP
 - twrp-12.1 - Main TWRP
+- shrp-12.1 - Main SHRP (Sapphire touch error)
 
 ## `Creek` notes
 These two devices are not yet fully supported, but the recoveries might be functional.
